@@ -1,0 +1,10 @@
+const todoArr= [{ id : 1, taskName: 'New Todo'},
+    { id : 2, taskName: 'plan the project'},
+    { id : 3, taskName: 'Design the frontend'},
+    { id : 2, taskName: 'Design the Backend'},
+    { id : 2, taskName: 'Create the Database'},
+    { id : 2, taskName: 'Merge the database'},
+    { id : 2, taskName: 'test the code'},
+    { id : 2, taskName: 'Debug the website'},
+    { id : 2, taskName: 'Deploy the website'},
+];
