@@ -1,0 +1,42 @@
+body{
+    background-color: burlywood;
+}
+
+marquee{
+    overflow:-moz-hidden-unscrollable;
+    display: block;
+    animation-duration: 5s;
+}
+
+h1{
+    text-align: center;
+    text-emphasis-color: red;
+    padding: 0%;
+    
+    color: brown;
+    
+
+}
+h2{
+
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: brown;
+    width: 1500px;
+}
+h2:hover{
+    color: chocolate;       
+    background-color: burlywood;
+    transition: all;
+}
+
+h2{
+    animation: infinite;
+}
+
+u{
+    color: brown;
+}
+.styled-link{
+    text-align: end;
+}
